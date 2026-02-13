@@ -1,5 +1,5 @@
 ## Name:MOHANA PRIYA R
-## REG:212224220065
+## Reg no:212224220065
 ## Aim:
 To create an cloud account in AWS and to explore all of its services. 
 ## Procedure
